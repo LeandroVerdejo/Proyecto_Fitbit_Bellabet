@@ -91,6 +91,6 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 
 **Leandro Verdejo Marileo**  
 - Ingeniero civil industrial.  
-- Análisis de datos, procesos y optimización operacional.  
+- Con experiencia en análisis de datos, visualización y Business Intelligence.  
 - https://www.linkedin.com/in/leandro-ariel-verdejo-marileo-11b894229/
 ---
