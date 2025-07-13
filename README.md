@@ -57,8 +57,6 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 - **Promedio actividad intensa:** ~25 min/día, adecuado pero mejorable.
 - **Insight clave:** el bienestar debe abordarse de forma integral, combinando movimiento, intensidad adecuada y descanso.
 
-  ### 📊 Dashboard de ejemplo
-
 ![Dashboard](./visualizations/Resultado.png)
 
 ---
