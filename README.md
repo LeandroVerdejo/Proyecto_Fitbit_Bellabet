@@ -31,11 +31,11 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 
 ## 🗃️ Contenido del repositorio
 
-- 📁 `sql/` : scripts SQL para limpieza y análisis.
+- [📁 /sql](./sql) : scripts SQL para limpieza y análisis.
 - [📁 /data](./data) : datasets originales o muestras representativas (respetando licencias).
-- 📁 `outputs/` : tablas limpias o vistas generadas en BigQuery.
-- 📁 `reports/` : informe final en formato Word/PDF.
-- 📁 `visualizaciones/` : capturas o dashboards de Power BI exportados.
+- [📁 /outputs](./outputs) : tablas limpias o vistas generadas en BigQuery.
+- [📁 /reports](./reports) : informe final en formato Word/PDF.
+- [📁 /visualizations](./visualizations) : capturas o dashboards de Power BI exportados.
 - 📄 `README.md` : este archivo.
 
 ---
