@@ -45,7 +45,6 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 - Google BigQuery (SQL para limpieza y consultas)
 - Microsoft Power BI (visualización de datos)
 - Excel (soporte para visuales simples)
-- Python (opcional para documentación y exportes)
 - Markdown (documentación)
 
 ---
