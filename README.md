@@ -31,7 +31,7 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 
 ## 🗃️ Contenido del repositorio
 
-- 📁 `notebooks/` : notebooks o scripts SQL para limpieza y análisis.
+- 📁 `sql/` : scripts SQL para limpieza y análisis.
 - 📁 `data/` : datasets originales o muestras representativas (respetando licencias).
 - 📁 `outputs/` : tablas limpias o vistas generadas en BigQuery.
 - 📁 `reports/` : informe final en formato Word/PDF.
@@ -52,7 +52,7 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 ## 📈 Principales resultados y hallazgos
 
 - **Relación pasos–calorías:** no lineal, indicando que el gasto calórico depende más de la intensidad de la actividad que del conteo bruto de pasos.
-- **Segmentación por nivel de pasos:** las usuarias más activas tienden a dormir menos minutos en promedio (~6.6 hrs) que las menos activas (~7.5 hrs).
+- **Segmentación por nivel de pasos:** los usuarios más activos tienden a dormir menos minutos en promedio (~6.6 hrs) que los menos activos (~7.5 hrs).
 - **Sueño vs pasos:** dispersión alta sin correlación lineal clara. Usuarios que duermen mucho (>10 h) suelen ser más sedentarios.
 - **Promedio actividad intensa:** ~25 min/día, adecuado pero mejorable.
 - **Insight clave:** el bienestar debe abordarse de forma integral, combinando movimiento, intensidad adecuada y descanso.
@@ -71,7 +71,7 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 ## 📌 Cómo replicar este proyecto
 
 1️⃣ Clonar este repositorio.  
-2️⃣ Acceder a las consultas SQL en `/notebooks` o en el anexo del informe.  
+2️⃣ Acceder a las consultas SQL en `/sql` o en el anexo del informe.  
 3️⃣ Ejecutar las vistas en Google BigQuery para limpieza y unión de tablas.  
 4️⃣ Conectar BigQuery a Power BI para visualizar dashboards propuestos.  
 5️⃣ Revisar el informe final para interpretación de resultados y recomendaciones.
