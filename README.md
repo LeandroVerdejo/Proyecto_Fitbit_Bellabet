@@ -82,14 +82,14 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 ## 📜 Licencia
 
 Este proyecto es educativo y está basado en datos públicos simulados (Fitabase/Kaggle). Uso libre para fines académicos o demostrativos.
+https://www.kaggle.com/datasets/arashnic/fitbit
 
 ---
 
 ## 🙋‍♂️ Autor
 
 **Leandro Verdejo Marileo**  
-- Ingeniero civil e industrial.  
+- Ingeniero civil industrial.  
 - Análisis de datos, procesos y optimización operacional.  
-- [LinkedIn](#) | [Email](#)
 
 ---
