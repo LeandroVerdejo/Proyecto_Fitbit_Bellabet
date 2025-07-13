@@ -35,7 +35,7 @@ El estudio contempla limpieza de datos, exploración, análisis estadístico y g
 - 📁 `data/` : datasets originales o muestras representativas (respetando licencias).
 - 📁 `outputs/` : tablas limpias o vistas generadas en BigQuery.
 - 📁 `reports/` : informe final en formato Word/PDF.
-- 📁 `visualizations/` : capturas o dashboards de Power BI exportados.
+- 📁 `visualizaciones/` : capturas o dashboards de Power BI exportados.
 - 📄 `README.md` : este archivo.
 
 ---
